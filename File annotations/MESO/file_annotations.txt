@@ -1,0 +1,6 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+28339	MESO	Patient	TCGA-XT-AASU	a48996be-7dae-451a-8129-9de8dfe7221a	Notification	Neoadjuvant therapy	LeraasK	05/01/2015	After adding pharmaceutical forms it was discovered that this patient received Cisplatin and Pemetrexed 2 months prior to the TCGA cancer procurement. 	
+23098	MESO	Patient	TCGA-UD-AABY	a20fb646-2a9e-42ac-a2cc-ff3d6a0625fa	Observation	Item may not meet study protocol	LeraasK	10/03/2014	Patient was diagnosed 2 years prior to cancer procurement with no surgery until TCGA tumor was resected, therefore this may be considered a progression.  Patient was treated with pleurodesis more than 90 days prior to cancer procurement which is acceptable. 	
+23097	MESO	Patient	TCGA-UD-AAC5	cb245767-f9d2-4cca-95f0-f3d247c05f01	Notification	Neoadjuvant therapy	LeraasK	10/03/2014	During Enrollment it was found that the patient received raditiaion treatment 2 months prior to TCGA tumor procurement.	
+20692	MESO	Patient	TCGA-3H-AB3L	aaace369-0a47-4176-811b-61cd42bf647f	Notification	Neoadjuvant therapy	LeraasK	06/12/2014	Pleurodesis < 90 days from sample procurement	
+20693	MESO	Patient	TCGA-3H-AB3K	e90bfe17-2e5b-47ed-b986-b3d4181f2bf6	Notification	Neoadjuvant therapy	LeraasK	06/12/2014	Pleurodesis < 90 days from sample procurement	

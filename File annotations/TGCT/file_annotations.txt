@@ -1,0 +1,2 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+21877	TGCT	Patient	TCGA-2G-AAFE	1d25c24e-bd3c-4023-85c1-b158f76324f1	Notification	History of unacceptable prior treatment related to a prior/other malignancy	LeraasK	08/21/2014	Patient recieved chemotherapy (Bleomycine, Etoposide, and Cisplatin) for the prior maligancy (opposite testicle)	

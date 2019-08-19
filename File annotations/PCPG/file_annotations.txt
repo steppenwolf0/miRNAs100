@@ -1,0 +1,2 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+20775	PCPG	Patient	TCGA-WB-A820	766c325b-404a-48c3-ba6b-5e17daff83be	Notification	History of unacceptable prior treatment related to a prior/other malignancy	sunq3	06/16/2014	 systemic treatment given to the prior/other malignancy	

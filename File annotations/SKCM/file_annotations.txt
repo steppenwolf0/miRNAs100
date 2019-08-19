@@ -1,0 +1,52 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+20752	SKCM	Patient	TCGA-D3-A2JF	c58638ed-a38c-4494-a41e-6ee5283a7a59	Notification	Neoadjuvant therapy	sunq3	06/16/2014	systemic treatment	
+15622	SKCM	Patient	TCGA-D3-A2JF	c58638ed-a38c-4494-a41e-6ee5283a7a59	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior squamous cell carincoma of the skin on the nose and leg. No radiation or systemic chemotherapy.	
+15913	SKCM	Patient	TCGA-D3-A2JG	47a16bf2-229b-4e9a-8b5e-3dcc61fa9106	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA	
+15927	SKCM	Patient	TCGA-FR-A3YO	62e928c1-df8b-4771-ae46-5da40794daf2	Notification	History of acceptable prior treatment related to a prior/other malignancy	bowenj	04/18/2013	Patient received local radiation for a prior DCIS in the left breast.	
+20900	SKCM	Patient	TCGA-GN-A9SD	ec4c4296-6ab4-420c-80a4-e7a34b9bf4a2	Notification	Neoadjuvant therapy	LeraasK	06/30/2014	Patient had isolated limb profusion for the malignancy submitted to TCGA prior to tumor resection, treated with Actinomycin D and Melphalan. 	
+28349	SKCM	Aliquot	TCGA-XV-AB01-06A-12R-A404-13	c2472a32-f2c4-4c31-ba23-7b0f051bcdc8	Notification	Barcode incorrect	LeraasK	05/04/2015	Originally identified as primary solid tumor, reclassified as metastatic.  Data associated with this barcode will be transitioned to the correct barcode.  Original barcode was TCGA-XV-AB01-01A-12R-A404. Correct barcode is TCGA-XV-AB01-06A-12R-A404
+	
+15625	SKCM	Patient	TCGA-EE-A184	3a8cfea5-1dcd-4dbb-bbd9-5bb602c54922	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior adenocarcinoma of the rectum. No radiation or systemic chemotherapy.	
+15624	SKCM	Patient	TCGA-EE-A180	7ee2f8d5-6c31-4f5f-a779-b43979e66d0b	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior Merkel cell carcinoma. No radiation or systemic chemotherapy.	
+15926	SKCM	Patient	TCGA-ER-A3EV	e35be832-6972-4677-b985-02e90d51141a	Notification	Neoadjuvant therapy	bowenj	04/18/2013	Patient received an unknown systemic therapy for the TCGA tumor.	
+15935	SKCM	Patient	TCGA-FS-A1ZW	49a6f6a6-bf6f-45cf-93dc-b006b4a0637d	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+15936	SKCM	Patient	TCGA-FS-A1ZY	a3df4ba6-538e-4b53-a356-eb1ef743b2ab	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+15923	SKCM	Patient	TCGA-ER-A3ES	b93f703e-be51-4469-aaac-2d4a87a37639	Notification	Neoadjuvant therapy	bowenj	04/18/2013	Patient received immunotherapy/vaccine for the TCGA tumor.	
+15937	SKCM	Patient	TCGA-FS-A1ZZ	f6ff5e77-60d8-4987-9a92-654fd4db81f1	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+15932	SKCM	Patient	TCGA-FS-A1ZS	31e94518-f6dd-4458-94d8-dda3cc7a0831	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+15933	SKCM	Patient	TCGA-FS-A1ZT	57882f61-4a32-49f1-afd4-61c70b184d8b	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+15934	SKCM	Patient	TCGA-FS-A1ZU	7ce09a09-074e-4f38-bed7-98ab34347fbe	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+15630	SKCM	Patient	TCGA-FS-A1ZF	e0d36cc0-652c-4224-bb10-09d15c7bd8f1	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior lymphoma. Unknown radiation or systemic chemotherapy.	
+15922	SKCM	Patient	TCGA-ER-A2NG	f788f950-7953-47a6-b833-f9e5daa28fd3	Notification	Neoadjuvant therapy	bowenj	04/18/2013	Patient received immunotherapy/vaccine for the TCGA tumor.	
+25419	SKCM	Patient	TCGA-ER-A2NH	6c353b35-4f6d-4a36-bc8b-8a21dd0beecb	Notification	Neoadjuvant therapy	LeraasK	02/16/2015	During Enrollment it was found that patient was treated with systemic therapy (neoadjuvant anti-CTLA-4 antibody ipilimumab therapy) prior to procurement of TCGA tumor.	
+15925	SKCM	Patient	TCGA-ER-A2NE	1068ad76-612e-40ee-b2fa-916da14b7916	Notification	Neoadjuvant therapy	bowenj	04/18/2013	Patient received chemotherapy for the TCGA tumor.	
+15918	SKCM	Patient	TCGA-ER-A2NF	d32a4219-4cca-470f-b6b3-11447d9f5e0b	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA	
+15917	SKCM	Patient	TCGA-ER-A2NC	b9607824-a8d3-4915-ab73-962cdcfd8dc3	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA	
+15924	SKCM	Patient	TCGA-ER-A2ND	1b3f92b7-658a-4bbd-b086-20c1cd976d54	Notification	Neoadjuvant therapy	bowenj	04/18/2013	Patient received chemotherapy for the TCGA tumor.	
+15921	SKCM	Patient	TCGA-ER-A2NB	bda2f09a-82c4-40ec-90e8-0bf63916a5c7	Notification	Neoadjuvant therapy	bowenj	04/18/2013	Patient received immunotherapy/vaccine for the TCGA tumor.	
+15929	SKCM	Patient	TCGA-GN-A262	e36c9411-773b-4a8e-9b43-895b3cb044c7	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+15930	SKCM	Patient	TCGA-GN-A267	ab74d6ed-880e-4470-bfd5-2974a4c3a0d7	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+20873	SKCM	Patient	TCGA-D3-A1Q3	29476d6a-0d06-4a18-8910-c0502f6539ff	Notification	Neoadjuvant therapy	sunq3	06/20/2014	Prior Interferon Treatment < 90 days from TCGA cancer procurement	
+28340	SKCM	Sample	TCGA-XV-AB01-06A	ab007526-e7e9-4382-9b67-0a69f9a7e7ca	Notification	Barcode incorrect	LeraasK	05/04/2015	Originally identified as primary solid tumor, reclassified as metastatic.  Data associated with this barcode will be transitioned to the correct barcode.  Original barcode was TCGA-XV-AB01-01A. Correct barcode is TCGA-XV-AB01-06A
+	
+26859	SKCM	Patient	TCGA-RP-A6K9	5359d381-e7f2-4155-a559-7da9cda42ed9	Notification	Neoadjuvant therapy	LeraasK	02/24/2015	During Enrollment it was found that patient received chemotherapy and IFN prior to TCGA tumor procurement.	
+15631	SKCM	Patient	TCGA-FW-A3R5	e5bc45ce-8a14-40b5-b9b5-ce45609fef3a	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior squamous cell carincoma of the cheek. No radiation or systemic chemotherapy.	
+15931	SKCM	Patient	TCGA-HR-A2OH	6668acfe-1594-42c0-b839-8a592702675f	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+28344	SKCM	Analyte	TCGA-XV-AB01-06A-12R	f927808d-77e2-4f50-8ed5-1c5834966ab2	Notification	Barcode incorrect	LeraasK	05/04/2015	Originally identified as primary solid tumor, reclassified as metastatic.  Data associated with this barcode will be transitioned to the correct barcode.  Original barcode was TCGA-XV-AB01-01A-12R. Correct barcode is TCGA-XV-AB01-06A-12R
+	
+15626	SKCM	Patient	TCGA-EE-A2GO	783eb662-7d7a-4637-8500-e2d86d73ec7b	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior squamous cell carincoma of the left lower leg. No radiation or systemic chemotherapy.	
+28779	SKCM	Patient	TCGA-ER-A19B	f7368803-c545-4407-9a14-2220560a8f80	Notification	Neoadjuvant therapy	LeraasK	08/21/2015	Patient received systemic pharma treatment (Temozolamide) 2 years prior to TCGA tumor resection. 	
+15629	SKCM	Patient	TCGA-ER-A198	ea240769-e51c-45f5-a131-ba123e598622	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior adenocarcinoma of the rectosigmoid junction. No radiation or systemic chemotherapy.	
+15628	SKCM	Patient	TCGA-ER-A193	8ab09143-daf6-40a9-85d3-0fe9de7b3e06	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior squamous cell carincoma of the neck. No radiation or systemic chemotherapy.	
+28342	SKCM	Portion	TCGA-XV-AB01-06A-12	92554f1d-bde9-4ae1-b229-a92ac7ab900e	Notification	Barcode incorrect	LeraasK	05/04/2015	Originally identified as primary solid tumor, reclassified as metastatic.  Data associated with this barcode will be transitioned to the correct barcode.  Original barcode was TCGA-XV-AB01-01A-12. Correct barcode is TCGA-XV-AB01-06A-12
+	
+21869	SKCM	Patient	TCGA-ER-A19T	b85b14d7-3b5a-4800-af12-622ec03b9fe5	Notification	Neoadjuvant therapy	jensenma	08/14/2014	Interferon was given less than 90 days prior to cancer procurement, which is exclusionary. (per Kristen Leraas/BCR TCGA-2222)	
+20753	SKCM	Patient	TCGA-D3-A3ML	0153f141-625e-4623-9f8a-296678002c63	Notification	Neoadjuvant therapy	sunq3	06/16/2014	systemic treatment	
+15919	SKCM	Patient	TCGA-D3-A3ML	0153f141-625e-4623-9f8a-296678002c63	Notification	Prior malignancy	bowenj	04/18/2013	Patient had a fibrosarcoma of the groin, basal cell carcinoma of the face and trunk, and prostate carcinoma. No radiation or systemic chemotherapy.	
+20875	SKCM	Patient	TCGA-D3-A3MU	714f58d6-14bf-4e60-96ac-104d4abd45ed	Notification	Neoadjuvant therapy	sunq3	06/20/2014	Prior Interferon Treatment < 90 days from TCGA cancer procurement	
+15914	SKCM	Patient	TCGA-D3-A3CC	2d36cea4-73e9-493b-8433-0c2b911c0521	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA	
+15623	SKCM	Patient	TCGA-D3-A3C8	16182443-12a1-4b0f-a6ab-33c2942e2991	Notification	Prior malignancy	bowenj	03/12/2013	Patient had a prior basaloid squamous cell carincoma of the head and neck, and a squamous cell carincoma of the head and neck. No radiation or systemic chemotherapy.	
+15627	SKCM	Patient	TCGA-EE-A2MR	449c9d70-d8aa-41d4-beeb-0bbfc73a23d8	Notification	Synchronous malignancy	bowenj	03/12/2013	Patient had a basal cell carcinoma of the chest wall. No radiation or systemic chemotherapy.	
+15938	SKCM	Patient	TCGA-FS-A4F0	4eb16fb1-0fcf-4c47-80fa-b7acc3a59a12	Notification	Acceptable treatment for TCGA tumor	bowenj	04/18/2013	Patient received interferon for the specimen submitted to TCGA.	
+20754	SKCM	Patient	TCGA-D9-A148	fed23055-1600-4128-8d73-e1aa902a9d1d	Notification	Neoadjuvant therapy	sunq3	06/16/2014	systemic treatment	
+15920	SKCM	Patient	TCGA-D9-A148	fed23055-1600-4128-8d73-e1aa902a9d1d	Notification	Neoadjuvant therapy	bowenj	04/18/2013	Patient received immunotherapy/vaccine for the TCGA tumor.	

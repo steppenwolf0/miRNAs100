@@ -1,0 +1,2 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+22377	DLBC	Patient	TCGA-G8-6906	3f5a897d-1eaa-4d4c-8324-27ac07c90927	Notification	Case submitted is found to be a recurrence after submission	pihltd	09/26/2014	Patient diagnosed and had prior treatment (CHOP) 7 years prior to procurement of the TCGA specimen. The TSS did confirm the TCGA tumor was a recurrence. 	

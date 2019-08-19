@@ -1,0 +1,8 @@
+GradientBoostingClassifier(n_estimators=300) 	 0.9859 	 0.0029 
+RandomForestClassifier(n_estimators=300) 	 0.9785 	 0.0051 
+LogisticRegression 	 0.9683 	 0.0054 
+PassiveAggressiveClassifier 	 0.9611 	 0.0044 
+SGDClassifier 	 0.9754 	 0.0048 
+SVC(linear) 	 0.9657 	 0.0065 
+RidgeClassifier 	 0.9635 	 0.0047 
+BaggingClassifier(n_estimators=300) 	 0.9807 	 0.0043 

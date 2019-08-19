@@ -1,0 +1,2 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+26868	CHOL	Patient	TCGA-W5-AA36	f2d42e03-ca8d-4b57-ae39-0cc8f37b1b67	Notification	Neoadjuvant therapy	LeraasK	02/26/2015	Patient received Gemcitabine + capecitabine prior to cancer procurement.	

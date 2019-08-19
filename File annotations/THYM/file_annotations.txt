@@ -1,0 +1,4 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+29663	THYM	Patient	TCGA-3G-AB0T	acaaed1a-2667-4c56-919b-daf5574371bb	Notification	Case submitted is found to be a recurrence after submission	LeraasK	10/09/2015	Distant metastasis submitted as a primary for TCGA. Case was initially diagnosed 5 years prior.	
+20902	THYM	Patient	TCGA-3G-AB0T	acaaed1a-2667-4c56-919b-daf5574371bb	Notification	Neoadjuvant therapy	LeraasK	06/30/2014	Patient recieved neoadjuvant chemotherapy prior to TCGA specimen. 	
+20901	THYM	Patient	TCGA-3G-AB0Q	67ff3aa1-9d52-4dc8-8501-ecd0d37a8735	Notification	Neoadjuvant therapy	LeraasK	06/30/2014	Patient recieved neoadjuvant chemotherapy prior to TCGA specimen.	

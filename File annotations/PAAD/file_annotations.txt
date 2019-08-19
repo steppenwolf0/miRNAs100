@@ -1,0 +1,27 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+23126	PAAD	Patient	TCGA-RL-AAAS		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is normal pancreas with atrophy	
+23136	PAAD	Patient	TCGA-2J-AABP		Observation	Item may not meet study protocol	sunq3	10/15/2014	 PAAD EPC had insufficient evidence to include this as an undifferentiated ductal adenocarcinoma	
+23121	PAAD	Patient	TCGA-F2-6880		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is normal pancreas with atrophy	
+23140	PAAD	Patient	TCGA-HZ-7918		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is an acinar cell carcinoma	
+23119	PAAD	Patient	TCGA-HZ-7920		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is atrophic pancreas	
+23117	PAAD	Patient	TCGA-HZ-7924		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is normal ampula of Vater	
+23120	PAAD	Patient	TCGA-HZ-7923		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is atrophic pancreas	
+23137	PAAD	Patient	TCGA-FB-A7DR		Observation	Item may not meet study protocol	sunq3	10/15/2014	the PAAD EPC states that this case likely did not arise in the pancreas (ampullary or duodenal)	
+23124	PAAD	Patient	TCGA-IB-AAUW		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is normal pancreas with atrophy	
+23125	PAAD	Patient	TCGA-IB-AAUV		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is normal pancreas with atrophy	
+23132	PAAD	Patient	TCGA-3A-A9IO		Notification	Item does not meet study protocol	sunq3	10/15/2014	This case is a neuroendocrine tumor and should not have been included in the PAAD study	
+23133	PAAD	Patient	TCGA-3A-A9IN		Notification	Item does not meet study protocol	sunq3	10/15/2014	This case is a neuroendocrine tumor and should not have been included in the PAAD study	
+23130	PAAD	Patient	TCGA-3A-A9IS		Notification	Item does not meet study protocol	sunq3	10/15/2014	This case is a neuroendocrine tumor and should not have been included in the PAAD study	
+23131	PAAD	Patient	TCGA-3A-A9IR		Notification	Item does not meet study protocol	sunq3	10/15/2014	This case is a neuroendocrine tumor and should not have been included in the PAAD study	
+23135	PAAD	Patient	TCGA-3A-A9IJ		Notification	Item does not meet study protocol	sunq3	10/15/2014	This case is a neuroendocrine tumor and should not have been included in the PAAD study	
+23134	PAAD	Patient	TCGA-3A-A9IL		Notification	Item does not meet study protocol	sunq3	10/15/2014	This case is a neuroendocrine tumor and should not have been included in the PAAD study	
+23139	PAAD	Patient	TCGA-HZ-8638		Observation	Item may not meet study protocol	sunq3	10/15/2014	the PAAD EPC states that this case likely did not arise in the pancreas (ampullary)	
+23129	PAAD	Patient	TCGA-3A-A9IV		Notification	Item does not meet study protocol	sunq3	10/15/2014	This case is a neuroendocrine tumor and should not have been included in the PAAD study	
+23118	PAAD	Patient	TCGA-H8-A6C1		Notification	Item does not meet study protocol	sunq3	10/15/2014	 Per the PAAD EPC, this tumor is atrophic pancreas	
+23128	PAAD	Patient	TCGA-2L-AAQM		Notification	Item does not meet study protocol	sunq3	10/15/2014	This case is a neuroendocrine tumor and should not have been included in the PAAD study	
+23138	PAAD	Patient	TCGA-HZ-7289		Observation	Item may not meet study protocol	sunq3	10/15/2014	the PAAD EPC states that this case likely did not arise in the pancreas (ampullary)	
+23141	PAAD	Patient	TCGA-FB-AAPP		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is a non-invasive IPMNs	
+20740	PAAD	Patient	TCGA-IB-7654	65e5bf5f-f22a-4ec2-8839-aeda37212b98	Notification	History of unacceptable prior treatment related to a prior/other malignancy	sunq3	06/16/2014	 systemic treatment given to the prior/other malignancy	
+23123	PAAD	Patient	TCGA-F2-7273		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is atrophic pancreas with a single focus of low-grade PanIN	
+23122	PAAD	Patient	TCGA-F2-7276		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is atrophic pancreas with a single focus of low-grade PanIN	
+23127	PAAD	Patient	TCGA-US-A77J		Notification	Item does not meet study protocol	sunq3	10/15/2014	Per the PAAD EPC, this tumor is normal pancreas with atrophy	

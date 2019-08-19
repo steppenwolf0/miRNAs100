@@ -1,0 +1,14 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+15325	CESC	Patient	TCGA-FU-A3TX	b75644c2-b515-41ce-9b03-842ef5208a17	Notification	Prior malignancy	bowenj	02/22/2013	Patient had a prior melanoma of the cheek. No radiation or systemic chemotherapy.	
+20897	CESC	Patient	TCGA-EX-A449	eb0eb159-732e-43ff-a402-7f2d9f67daa8	Observation	General	LeraasK	06/30/2014	Same patient as FR-A44A...2 different primaries. 	
+15324	CESC	Patient	TCGA-EX-A449	eb0eb159-732e-43ff-a402-7f2d9f67daa8	Notification	History of unacceptable prior treatment related to a prior/other malignancy	bowenj	02/22/2013	Patient had a prior superficial spreading melanoma treated with locoregional radiation and systemic chemotherapy.	
+20849	CESC	Patient	TCGA-ZJ-A8QQ	b12deb95-6aa1-49cb-a3c5-a711d42d6fb9	Notification	Duplicate item	LeraasK	06/18/2014	please notify: case matches EK-A2H0
+
+This case was the first biopsy procured.	
+15323	CESC	Patient	TCGA-DS-A1OC	e711b88e-fa0e-4781-8549-7a53ed3a13a1	Notification	Prior malignancy	bowenj	02/22/2013	Patient had a prior invasive breast cancer. No radiation or systemic chemotherapy.	
+20848	CESC	Patient	TCGA-EK-A2H0	c83c52f4-3815-4f49-8218-cf80aaa62e2f	Notification	Duplicate item	LeraasK	06/18/2014	please notify: case matches ZJ-A8QQ
+
+This case was the second biopsy procured. 	
+20719	CESC	Patient	TCGA-JW-A5VL	d1a5b028-ec79-456b-81a1-69838e2922df	Notification	Item does not meet study protocol	sunq3	06/16/2014	non-invasive	
+21878	CESC	Patient	TCGA-DG-A2KH	6248f2a3-0da9-419f-ab77-c3f6f4353eb5	Notification	Item does not meet study protocol	LeraasK	08/22/2014	TSS confirmed TCGA tumor is villoglandular variant of endocervical adenocarcinoma, which was revealed at time of Enrollment.  This tumor type is not acceptable for the CESC study within TCGA.	
+20776	CESC	Patient	TCGA-EK-A2RD	16363ef7-899d-4927-a74b-e7c03b3d8af1	Notification	Item does not meet study protocol	sunq3	06/16/2014	RIN value below 7	

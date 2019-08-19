@@ -1,0 +1,2 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+20691	ACC	Patient	TCGA-P6-A5OG	0824b246-9fa2-4a8b-ad4c-1ffc7731bf7d	Notification	History of unacceptable prior treatment related to a prior/other malignancy	LeraasK	06/12/2014	Prior Osteosarcoma with Cisplatin, Methotrexate, and Adriamycin given to patient prior to TCGA specimen. 	

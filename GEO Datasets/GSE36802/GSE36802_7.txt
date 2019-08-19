@@ -1,0 +1,200 @@
+
+Classifier LogisticRegression
+Training accuracy: 0.9171; Test accuracy: 1.0000 
+Complete classification on test: 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+
+Classifier PassiveAggressiveClassifier
+Training accuracy: 0.8351; Test accuracy: 1.0000 
+Complete classification on test: 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+
+Classifier SGDClassifier
+Training accuracy: 0.8725; Test accuracy: 1.0000 
+Complete classification on test: 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+
+Classifier SVC(linear)
+Training accuracy: 0.9594; Test accuracy: 1.0000 
+Complete classification on test: 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+
+Classifier RidgeClassifier
+Training accuracy: 0.7887; Test accuracy: 1.0000 
+Complete classification on test: 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+
+Classifier BaggingClassifier(n_estimators=300)
+Training accuracy: 1.0000; Test accuracy: 0.2857 
+Complete classification on test: 
+7 
+7 
+7 
+7 
+18 
+7 
+7 
+18 
+7 
+18 
+18 
+18 
+12 
+18 
+7 
+12 
+7 
+7 
+7 
+7 
+7 
+
+Classifier GradientBoostingClassifier(n_estimators=300)
+Training accuracy: 1.0000; Test accuracy: 0.7619 
+Complete classification on test: 
+18 
+7 
+18 
+18 
+18 
+18 
+7 
+18 
+7 
+18 
+18 
+18 
+18 
+18 
+18 
+12 
+18 
+18 
+7 
+18 
+18 
+
+Classifier RandomForestClassifier(n_estimators=300)
+Training accuracy: 1.0000; Test accuracy: 1.0000 
+Complete classification on test: 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 

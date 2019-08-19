@@ -1,0 +1,5 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+18802	UCS	Aliquot	TCGA-N7-A4Y0-01A-12R-A28Z-13	30c70c74-4287-45fb-b76f-921e5ff67679	CenterNotification	Center QC failed	pihltd	12/11/2013	miRNA-seq: LOW miRNA CONTENT	
+18800	UCS	Aliquot	TCGA-N7-A4Y0-01A-12R-A28Z-13	30c70c74-4287-45fb-b76f-921e5ff67679	CenterNotification	Item flagged DNU	DCC	12/09/2013	SDRF in bcgsc.ca_UCS.IlluminaHiSeq_miRNASeq.mage-tab.1.2.0 flagged aliquot to be excluded for analysis based on file 'TCGA-N7-A4Y0-01A-12R-A28Z-13.isoform.quantification.txt'.	
+18801	UCS	Aliquot	TCGA-N7-A4Y0-01A-12R-A28Z-13	30c70c74-4287-45fb-b76f-921e5ff67679	CenterNotification	Item flagged DNU	DCC	12/09/2013	SDRF in bcgsc.ca_UCS.IlluminaHiSeq_miRNASeq.mage-tab.1.2.0 flagged aliquot to be excluded for analysis based on file 'TCGA-N7-A4Y0-01A-12R-A28Z-13.mirna.quantification.txt'.	
+20110	UCS	Portion	TCGA-NG-A4VW-01A-11	08192fb6-200a-45c9-8d9e-2aec5a70557f	Observation	General	bowenj	03/14/2014	Tumor appears to be low purity based on SNP and methylation data.	

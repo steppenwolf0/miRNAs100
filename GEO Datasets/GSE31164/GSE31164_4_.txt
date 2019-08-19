@@ -1,0 +1,24 @@
+
+Classifier LogisticRegression
+Training accuracy: 0.9171; Test accuracy: 0.9455 
+
+Classifier PassiveAggressiveClassifier
+Training accuracy: 0.8629; Test accuracy: 0.9455 
+
+Classifier SGDClassifier
+Training accuracy: 0.8706; Test accuracy: 0.9364 
+
+Classifier SVC(linear)
+Training accuracy: 0.9594; Test accuracy: 0.7727 
+
+Classifier RidgeClassifier
+Training accuracy: 0.7887; Test accuracy: 0.9455 
+
+Classifier BaggingClassifier(n_estimators=300)
+Training accuracy: 1.0000; Test accuracy: 0.9818 
+
+Classifier GradientBoostingClassifier(n_estimators=300)
+Training accuracy: 1.0000; Test accuracy: 0.9273 
+
+Classifier RandomForestClassifier(n_estimators=300)
+Training accuracy: 1.0000; Test accuracy: 0.9818 
