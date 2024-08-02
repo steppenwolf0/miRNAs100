@@ -1,0 +1,7 @@
+The folder “File annotations” contains the File Manifest and annotations for each label, along with the original data from the TCGA before it was compiled into a single file. 
+The file “features_0” includes the measured miRNAs, while the file “labels” provides numerical information for each type of cancer. 
+The file “data_0” comprises 8023 samples, with each row representing a sample of 1046 miRNAs.
+
+
+
+
