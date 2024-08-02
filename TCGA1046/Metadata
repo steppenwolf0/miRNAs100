@@ -2,6 +2,37 @@ The folder “File annotations” contains the File Manifest and annotations for
 The file “features_0” includes the measured miRNAs, while the file “labels” provides numerical information for each type of cancer. 
 The file “data_0” comprises 8023 samples, with each row representing a sample of 1046 miRNAs.
 
+The labels are assigned:
+ACC	  0
+BLCA	1
+BRCA	2
+CESC	3
+CHOL	4
+DLBC	5
+ESCA	6
+HNSC	7
+KICH	8
+KIRC	9
+KIRP	10
+LGG	  11
+LIHC	12
+LUAD	13
+LUSC	14
+MESO	15
+PAAD	16
+PCPG	17
+PRAD	18
+SARC	19
+SKCM	20
+STAD	21
+TGCT	22
+THCA	23
+THYM	24
+UCEC	25
+UCS	  26
+UVM	  27
+
+
 
 
 
